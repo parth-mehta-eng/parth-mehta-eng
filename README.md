@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/parth-mehta-eng/parth-mehta-eng/main/terminal-banner.svg" alt="Terminal banner" width="600"/>
+  <img src="https://cdn.jsdelivr.net/gh/parth-mehta-eng/parth-mehta-eng@main/terminal-banner.svg" alt="Terminal banner" width="600"/>
 </p>
 
 ---
