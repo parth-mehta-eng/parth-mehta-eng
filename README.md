@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Parth Mehta 👋</h1>
-<h3 align="center">Full-stack Lead Engineer — architecture, team leadership, and AI-assisted engineering workflows in fintech and healthcare</h3>
+<h3 align="center">Lead Application Development Engineer — architecture, team leadership, and AI-assisted engineering workflows in fintech and healthcare</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/parthmehta374">
