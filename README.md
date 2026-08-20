@@ -9,37 +9,45 @@
 
 </div>
 
+<br/>
+
+<table>
+<tr><td>
+
+🔴 🟡 🟢 &nbsp;`parth@github: ~`
+
 ```
-parth@github:~
 $ building agentic AI workflows_
 ```
 
-<div align="center">
+</td></tr>
+</table>
 
-|   |   |
-|---|---|
-| **8+ years** | in engineering leadership |
-| **$2B+** | daily volume architected |
-| **35%** | API latency cut (Centene) |
-| **40%** | MTTR cut via automation |
+<table>
+<tr><td>
 
-</div>
+🔴 🟡 🟢 &nbsp;`parth@github: ~/impact`
 
----
+```
+  8+ years in engineering leadership     $2B+ daily volume architected
+  35% API latency cut (Centene)          40% MTTR cut via automation
+```
 
-### About
+</td></tr>
+</table>
+
+### 🎗️ About
 
 I lead engineering teams and own system architecture end to end, from React/TypeScript frontends through Java/Spring Boot services to the cloud infrastructure underneath. Over 8+ years I've built and led teams across financial services and healthcare, including systems processing $2B+ in daily volume. Currently focused on integrating agentic AI into day-to-day engineering workflows — code review, refactoring, test generation, and incident triage.
 
-### Currently
+### 📈 Currently
 
-- Leading an 8-engineer team at Centene, architecting enterprise healthcare software serving millions of members
-- Building agentic AI / LLM tooling — RAG pipelines, prompt engineering, AI code review and test generation — into team developer workflows
-- Learning Python to round out my backend and tooling work
+- 🩺 Leading an 8-engineer team at Centene, architecting enterprise healthcare software serving millions of members
+- 🤖 Building agentic AI / LLM tooling — RAG pipelines, prompt engineering, AI code review and test generation — into team developer workflows
+- 🐍 Learning Python to round out my backend and tooling work
+- 🎓 Completing an MBA at Kellogg (Northwestern), expected Dec 2027
 
-<sub>Also completing an MBA at Kellogg (Northwestern), expected Dec 2027.</sub>
-
-### Selected Impact
+### ✏️ Selected Impact
 
 | Result | Where |
 |---|---|
@@ -49,7 +57,7 @@ I lead engineering teams and own system architecture end to end, from React/Type
 | Architected enterprise microservices supporting 3x message throughput for trading systems processing $2B+ daily volume, leading a team of 5 | Broadridge Financial Solutions |
 | Built CI/CD pipelines that cut deployment time from 45 minutes to 12, enabling daily zero-downtime releases | Numerix |
 
-### Tech I Work In
+### 🛠️ Tech I Work In
 
 **Frontend**
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -81,7 +89,7 @@ I lead engineering teams and own system architecture end to end, from React/Type
 **Learning**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Featured Projects
+### 🚀 Featured Projects
 
 **[coverage-copilot](https://github.com/parth-mehta-eng/coverage-copilot)** — Retrieval over public Medicare coverage determinations, with a reproducible eval harness. Not medical advice.
 `Python`
@@ -89,9 +97,7 @@ I lead engineering teams and own system architecture end to end, from React/Type
 **[coverage-console](https://github.com/parth-mehta-eng/coverage-console)** — Multi-tenant web console around coverage-copilot, with Postgres row-level security tenant isolation. Free to run end to end.
 `TypeScript`
 
----
-
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parth-mehta-eng&show_icons=true&theme=nightowl&hide_border=true&hide=stars" height="165"/>
@@ -105,8 +111,6 @@ I lead engineering teams and own system architecture end to end, from React/Type
 <p align="center">
   <img src="https://raw.githubusercontent.com/parth-mehta-eng/parth-mehta-eng/output/github-contribution-grid-snake.svg" />
 </p>
-
----
 
 <div align="center">
 <sub>parth-mehta-eng · he/him · linkedin.com/in/parthmehta374 · parthmehta374@gmail.com</sub>
