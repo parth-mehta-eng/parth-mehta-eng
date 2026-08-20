@@ -74,15 +74,10 @@ I lead engineering teams and own system architecture end to end, from React/Type
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 Impact at a Glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parth-mehta-eng&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-mehta-eng&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=parth-mehta-eng&theme=dark&hide_border=true" alt="Contribution streak"/>
+  <img src="https://cdn.jsdelivr.net/gh/parth-mehta-eng/parth-mehta-eng@main/impact-panel.svg" alt="Impact stats" width="600"/>
 </p>
 
 ---
