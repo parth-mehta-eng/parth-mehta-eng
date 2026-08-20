@@ -100,8 +100,8 @@ I lead engineering teams and own system architecture end to end, from React/Type
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth-mehta-eng&show_icons=true&theme=nightowl&hide_border=true&hide=stars" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-mehta-eng&layout=compact&theme=nightowl&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-ten-chi-10.vercel.app/api?username=parth-mehta-eng&show_icons=true&theme=nightowl&hide_border=true&hide=stars" height="165"/>
+  <img src="https://github-readme-stats-ten-chi-10.vercel.app/api/top-langs/?username=parth-mehta-eng&layout=compact&theme=nightowl&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
