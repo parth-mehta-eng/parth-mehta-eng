@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Parth Mehta 👋</h1>
-<h3 align="center">Lead Application Development Engineer — architecture, team leadership, and AI-assisted engineering workflows in fintech and healthcare</h3>
+<h3 align="center">Full-stack Lead Engineer — architecture, team leadership, and AI-assisted engineering workflows in fintech and healthcare</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/parthmehta374">
@@ -8,6 +8,10 @@
   <a href="mailto:parthmehta374@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/parth-mehta-eng/parth-mehta-eng/main/terminal-banner.svg" alt="Terminal banner" width="600"/>
 </p>
 
 ---
@@ -69,6 +73,17 @@ I lead engineering teams and own system architecture end to end, from React/Type
 **Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parth-mehta-eng&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-mehta-eng&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=parth-mehta-eng&theme=dark&hide_border=true" alt="Contribution streak"/>
+</p>
 
 ---
 
